@@ -1,6 +1,6 @@
 # toku
 
-A new Flutter project.
+A new Flutter project for learn Japanese.
 
 ## Screens
 ![Screenshot_1679788299](https://user-images.githubusercontent.com/109968682/227747977-528541d0-f28a-43db-b481-833d8296834e.png)
